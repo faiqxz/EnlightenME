@@ -65,7 +65,7 @@ export const courses = [
     {
       id: 8,
       title: 'The Life of Prophet Muhammad (PBUH)',
-      category:'Flutter',
+      category:'12 weeks',
       rating:4,
       price: '$59.99',
       sale: 63,  
